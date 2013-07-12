@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.lasmit.co.uk/sitemap.xml 
+Sitemap: http://lewisalexander.github.io/sitemap.xml 
