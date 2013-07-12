@@ -4,7 +4,7 @@
   <title><![CDATA[lasmit]]></title>
   <link href="http://lewisalexander.github.io/atom.xml" rel="self"/>
   <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-07-12T14:48:50+07:00</updated>
+  <updated>2013-07-12T15:01:40+07:00</updated>
   <id>http://lewisalexander.github.io/</id>
   <author>
     <name><![CDATA[Lewis Smith]]></name>
@@ -27,7 +27,7 @@
 <p><img src="http://lewisalexander.github.io/user-images/hierachy.png" alt="Make more profit from More Downloads from More Reviews from More Engaged Users
 " /></p>
 
-<p>Although, they all feed into each other, it&rsquo;s possible to address things at the higher levels specifically. For example, getting more reviews could come from thinking more carefully about how and when we ask for reviews. And more downloads could come from improved screenshots or app store wording.</p>
+<p>Although they all feed into each other, it&rsquo;s possible to address things at the higher levels specifically. For example, getting more reviews could come from thinking more carefully about how and when we ask for reviews. And more downloads could come from improved screenshots or app store wording.</p>
 
 <p>This was kind of a revelation for me, as a developer it&rsquo;s so easy to get tied into the ground level view where you want to add features. The reviews thing in particular, we have a bit of code that prompts the user after a number of times of using the app and we thought about the wording and how many uses was ok before asking. But we didn&rsquo;t think much beyond that. Might things like time of day make a difference?  The more we thought about it the more we thought it would.</p>
 
@@ -42,7 +42,7 @@
 <li>Add reporting to know how many times we ask for a review and how many times people say yes, no and later</li>
 <li>A/B test the time of day to ask for a review. I have a theory that for our app asking in the afternoon will give better results than in the morning, but I want to test that</li>
 <li>Add events for data collection and add goals in analytics</li>
-<li>Collect data about which model our users are using. For whatever reason analytics doesn&rsquo;t gather this by default. This is particularly important as iOS 7 approaches. As some devices will not be able to upgrade</li>
+<li>Collect data about which model our users are using. For whatever reason analytics doesn&rsquo;t gather this by default. This is particularly important as iOS 7 approaches as some devices will not be able to upgrade</li>
 </ul>
 
 ]]></content>
