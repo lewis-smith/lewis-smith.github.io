@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Learning About Making and Selling iOS Apps]]></title>
-  <link href="http://lewisalexander.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: analytics | Learning About Making and Selling iOS Apps]]></title>
+  <link href="http://lewisalexander.github.io/blog/categories/analytics/atom.xml" rel="self"/>
   <link href="http://lewisalexander.github.io/"/>
   <updated>2013-07-17T22:58:55+07:00</updated>
   <id>http://lewisalexander.github.io/</id>
@@ -262,7 +262,7 @@
 
 <p>Here&rsquo;s the hierarchy that we saw:</p>
 
-<p><img src="http://lewisalexander.github.io/user-images/hierachy.png" alt="Make more profit from More Downloads from More Reviews from More Engaged Users
+<p><img src="/user-images/hierachy.png" alt="Make more profit from More Downloads from More Reviews from More Engaged Users
 " /></p>
 
 <p>Although they all feed up, it&rsquo;s possible to address things at the higher levels specifically. For example, getting more reviews could come from thinking more carefully about how and when we ask for reviews. And more downloads could come from improved screenshots or app store wording.</p>
@@ -283,21 +283,6 @@
 <li>Collect data about which model our users are using. For whatever reason analytics doesn&rsquo;t gather this by default. This is particularly important as iOS 7 approaches as some devices will not be able to upgrade</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[the beginning]]></title>
-    <link href="http://lewisalexander.github.io/blog/2013/07/03/the-beginning/"/>
-    <updated>2013-07-03T12:13:00+07:00</updated>
-    <id>http://lewisalexander.github.io/blog/2013/07/03/the-beginning</id>
-    <content type="html"><![CDATA[<p>It all started with trying to fit into my wedding suit &ndash; as all good app development stories do. A healthy intake of beers and burgers had given me a few too many extra inches around the belly and those inches needed to come off. Diets aren&rsquo;t really my thing but Tim Ferriss&#8217; Four Hour Body appealed to the geek in me because it&rsquo;s closer to science than most. He&rsquo;s dug into the chemistry, there&rsquo;s a definite &lsquo;right and wrong&rsquo; way of doing it (the fewer decisions required, the better), and he measures everything &ndash; in spreadsheets, no less. If ever there was a man-friendly diet, this is it.</p>
-
-<p>One of 4HB&rsquo;s commandments is that you consistently measure your arms, hips, waist and legs in order to calculate your Total Body Measurements, and then track this figure along with your body fat percentage. But the spreadsheet just didn&rsquo;t cut it.</p>
-
-<p>I’d been looking to get into iPhone development for a while so I decided to roll my own body measurements tracking app as a learning project. As it was just for me it didn’t need to be too polished, but being a big fan of Apple products I also wanted to include the native controls and gestures to make it feel as much like a proper iPhone app as possible.</p>
-
-<p>The first version was pretty basic, but way better than a spreadsheet. After using it for a while it occurred to me that other 4HBers might also want an easier way of tracking their measurements. So, without polishing or refining, I put it on the App Store to see what happened. And people downloaded it. Not in their thousands, but enough to make me think there was a market I could tap into to make some money. So there it was: No monetization strategy, no marketing plan, no slick design or well thought out UI. My first app was quick and dirty, but it&rsquo;s evolved into something I&rsquo;m really proud of. And it helped me get into that wedding suit.</p>
 ]]></content>
   </entry>
   

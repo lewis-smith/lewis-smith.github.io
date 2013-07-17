@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: increase profits | lasmit]]></title>
+  <title><![CDATA[Category: increase profits | Learning About Making and Selling iOS Apps]]></title>
   <link href="http://lewisalexander.github.io/blog/categories/increase-profits/atom.xml" rel="self"/>
   <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-07-12T15:01:40+07:00</updated>
+  <updated>2013-07-17T22:58:55+07:00</updated>
   <id>http://lewisalexander.github.io/</id>
   <author>
-    <name><![CDATA[Lewis Smith]]></name>
+    <name><![CDATA[Lewis Alexander]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -27,9 +27,9 @@
 <p><img src="/user-images/hierachy.png" alt="Make more profit from More Downloads from More Reviews from More Engaged Users
 " /></p>
 
-<p>Although they all feed into each other, it&rsquo;s possible to address things at the higher levels specifically. For example, getting more reviews could come from thinking more carefully about how and when we ask for reviews. And more downloads could come from improved screenshots or app store wording.</p>
+<p>Although they all feed up, it&rsquo;s possible to address things at the higher levels specifically. For example, getting more reviews could come from thinking more carefully about how and when we ask for reviews. And more downloads could come from improved screenshots or app store wording.</p>
 
-<p>This was kind of a revelation for me, as a developer it&rsquo;s so easy to get tied into the ground level view where you want to add features. The reviews thing in particular, we have a bit of code that prompts the user after a number of times of using the app and we thought about the wording and how many uses was ok before asking. But we didn&rsquo;t think much beyond that. Might things like time of day make a difference?  The more we thought about it the more we thought it would.</p>
+<p>This was kind of a revelation for me. As a developer it&rsquo;s so easy to get tied into the ground level view where you want to add features. The reviews thing in particular, we have a bit of code that prompts the user after a number of times of using the app and we thought about the wording and how many uses was ok before asking. But we didn&rsquo;t think much beyond that. Might things like time of day make a difference?  The more we thought about it the more we thought it would.</p>
 
 <p>We also realised there was a lot more analytics we could be collecting to help us understand our customers better and make more informed decisions about which features to include.</p>
 

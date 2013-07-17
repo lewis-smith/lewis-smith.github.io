@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: story | lasmit]]></title>
+  <title><![CDATA[Category: story | Learning About Making and Selling iOS Apps]]></title>
   <link href="http://lewisalexander.github.io/blog/categories/story/atom.xml" rel="self"/>
   <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-07-12T15:01:40+07:00</updated>
+  <updated>2013-07-17T22:58:55+07:00</updated>
   <id>http://lewisalexander.github.io/</id>
   <author>
-    <name><![CDATA[Lewis Smith]]></name>
+    <name><![CDATA[Lewis Alexander]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
