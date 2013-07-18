@@ -4,7 +4,7 @@
   <title><![CDATA[Category: analytics | Learning About Making and Selling iOS Apps]]></title>
   <link href="http://lewisalexander.github.io/blog/categories/analytics/atom.xml" rel="self"/>
   <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-07-17T23:03:35+07:00</updated>
+  <updated>2013-07-18T10:18:10+07:00</updated>
   <id>http://lewisalexander.github.io/</id>
   <author>
     <name><![CDATA[Lewis Alexander]]></name>
@@ -25,6 +25,9 @@
 <p>People obviously enjoy using our app, but I wish more people would go ahead and say so.</p>
 
 <p>All we&rsquo;d done to encourage reviews is add <a href="https://github.com/LukeDurrant/Ask4AppReviews">Ask4AppReviews</a> to the code and let it go. This did get us reviews, but not as many as we would like (or frankly think that we deserve).</p>
+
+<!-- more -->
+
 
 <p>When we thought about how <em>we</em> used our app, we realised that we always take our measurements first thing in the morning. This is before work time and personally <strong>I would NEVER review an app while I&rsquo;m rushing to get ready for work</strong>. But I would later in the day if I was just browsing my measurements.</p>
 
@@ -257,6 +260,9 @@
     <updated>2013-07-12T14:12:00+07:00</updated>
     <id>http://lewisalexander.github.io/blog/2013/07/12/how-do-we-get-better</id>
     <content type="html"><![CDATA[<p>We sat down in a trendy art cafe in Chiang Mai. We wanted to work out what to do next with the app. We had a few unfinished features and a few unanswered questions. In short we needed some direction.</p>
+
+<!-- more -->
+
 
 <p>We started writing on cards all the things we wanted to do in all areas of the app, features, marketing, everything. As we got them down it became clear that there was a kind of hierarchy of goals. And we sorted the cards into the appropriate category.</p>
 
