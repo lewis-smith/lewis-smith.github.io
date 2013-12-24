@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: pitching | Learning About Making and Selling iOS Apps]]></title>
-  <link href="http://lewisalexander.github.io/blog/categories/pitching/atom.xml" rel="self"/>
-  <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-12-24T15:50:15+11:00</updated>
-  <id>http://lewisalexander.github.io/</id>
+  <link href="http://lewis-smith.github.io/blog/categories/pitching/atom.xml" rel="self"/>
+  <link href="http://lewis-smith.github.io/"/>
+  <updated>2013-12-24T15:58:11+11:00</updated>
+  <id>http://lewis-smith.github.io/</id>
   <author>
-    <name><![CDATA[Lewis Alexander]]></name>
+    <name><![CDATA[Lewis Smith]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[how to apply for graphic design work]]></title>
-    <link href="http://lewisalexander.github.io/blog/2013/08/07/how-to-apply-for-graphic-design-work/"/>
+    <link href="http://lewis-smith.github.io/blog/2013/08/07/how-to-apply-for-graphic-design-work/"/>
     <updated>2013-08-07T09:25:00+10:00</updated>
-    <id>http://lewisalexander.github.io/blog/2013/08/07/how-to-apply-for-graphic-design-work</id>
+    <id>http://lewis-smith.github.io/blog/2013/08/07/how-to-apply-for-graphic-design-work</id>
     <content type="html"><![CDATA[<p>We&rsquo;re looking for a graphic designer at the moment. When we couldn&rsquo;t get any suitable recommendations from friends we turned to the freelance boards.</p>
 
 <!-- more -->

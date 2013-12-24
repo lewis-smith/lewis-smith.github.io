@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: story | Learning About Making and Selling iOS Apps]]></title>
-  <link href="http://lewisalexander.github.io/blog/categories/story/atom.xml" rel="self"/>
-  <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-12-24T15:50:15+11:00</updated>
-  <id>http://lewisalexander.github.io/</id>
+  <link href="http://lewis-smith.github.io/blog/categories/story/atom.xml" rel="self"/>
+  <link href="http://lewis-smith.github.io/"/>
+  <updated>2013-12-24T15:58:11+11:00</updated>
+  <id>http://lewis-smith.github.io/</id>
   <author>
-    <name><![CDATA[Lewis Alexander]]></name>
+    <name><![CDATA[Lewis Smith]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[the beginning]]></title>
-    <link href="http://lewisalexander.github.io/blog/2013/07/03/the-beginning/"/>
+    <link href="http://lewis-smith.github.io/blog/2013/07/03/the-beginning/"/>
     <updated>2013-07-03T12:13:00+10:00</updated>
-    <id>http://lewisalexander.github.io/blog/2013/07/03/the-beginning</id>
+    <id>http://lewis-smith.github.io/blog/2013/07/03/the-beginning</id>
     <content type="html"><![CDATA[<p>It all started with trying to fit into my wedding suit &ndash; as all good app development stories do. A healthy intake of beers and burgers had given me a few too many extra inches around the belly and those inches needed to come off. Diets aren&rsquo;t really my thing but Tim Ferriss' Four Hour Body appealed to the geek in me because it&rsquo;s closer to science than most. He&rsquo;s dug into the chemistry, there&rsquo;s a definite &lsquo;right and wrong&rsquo; way of doing it (the fewer decisions required, the better), and he measures everything &ndash; in spreadsheets, no less. If ever there was a man-friendly diet, this is it.</p>
 
 <!-- more -->

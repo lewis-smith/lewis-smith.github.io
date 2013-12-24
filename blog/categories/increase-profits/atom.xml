@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: increase profits | Learning About Making and Selling iOS Apps]]></title>
-  <link href="http://lewisalexander.github.io/blog/categories/increase-profits/atom.xml" rel="self"/>
-  <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-12-24T15:50:15+11:00</updated>
-  <id>http://lewisalexander.github.io/</id>
+  <link href="http://lewis-smith.github.io/blog/categories/increase-profits/atom.xml" rel="self"/>
+  <link href="http://lewis-smith.github.io/"/>
+  <updated>2013-12-24T15:58:11+11:00</updated>
+  <id>http://lewis-smith.github.io/</id>
   <author>
-    <name><![CDATA[Lewis Alexander]]></name>
+    <name><![CDATA[Lewis Smith]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[how do we get better?]]></title>
-    <link href="http://lewisalexander.github.io/blog/2013/07/12/how-do-we-get-better/"/>
+    <link href="http://lewis-smith.github.io/blog/2013/07/12/how-do-we-get-better/"/>
     <updated>2013-07-12T14:12:00+10:00</updated>
-    <id>http://lewisalexander.github.io/blog/2013/07/12/how-do-we-get-better</id>
+    <id>http://lewis-smith.github.io/blog/2013/07/12/how-do-we-get-better</id>
     <content type="html"><![CDATA[<p>We sat down in a trendy art cafe in Chiang Mai. We wanted to work out what to do next with the app. We had a few unfinished features and a few unanswered questions. In short we needed some direction.</p>
 
 <!-- more -->

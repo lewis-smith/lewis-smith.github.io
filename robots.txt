@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://lewisalexander.github.io/sitemap.xml 
+Sitemap: http://lewis-smith.github.io/sitemap.xml 

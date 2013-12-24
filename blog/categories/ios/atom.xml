@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ios | Learning About Making and Selling iOS Apps]]></title>
-  <link href="http://lewisalexander.github.io/blog/categories/ios/atom.xml" rel="self"/>
-  <link href="http://lewisalexander.github.io/"/>
-  <updated>2013-12-24T15:50:15+11:00</updated>
-  <id>http://lewisalexander.github.io/</id>
+  <link href="http://lewis-smith.github.io/blog/categories/ios/atom.xml" rel="self"/>
+  <link href="http://lewis-smith.github.io/"/>
+  <updated>2013-12-24T15:58:11+11:00</updated>
+  <id>http://lewis-smith.github.io/</id>
   <author>
-    <name><![CDATA[Lewis Alexander]]></name>
+    <name><![CDATA[Lewis Smith]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[ios 7.1 will allow developers to release updates more often and reduce nagware]]></title>
-    <link href="http://lewisalexander.github.io/blog/2013/12/24/ios-7-dot-1-will-allow-developers-to-release-updates-more-often-and-reduce-nagware/"/>
+    <link href="http://lewis-smith.github.io/blog/2013/12/24/ios-7-dot-1-will-allow-developers-to-release-updates-more-often-and-reduce-nagware/"/>
     <updated>2013-12-24T15:31:00+11:00</updated>
-    <id>http://lewisalexander.github.io/blog/2013/12/24/ios-7-dot-1-will-allow-developers-to-release-updates-more-often-and-reduce-nagware</id>
+    <id>http://lewis-smith.github.io/blog/2013/12/24/ios-7-dot-1-will-allow-developers-to-release-updates-more-often-and-reduce-nagware</id>
     <content type="html"><![CDATA[<p>With iOS 7.1 Apple has changed the App Store to show the overall star rating for apps. Currently ratings are only for the latest update. This is great for developers and users alike.</p>
 
 <!-- more -->
