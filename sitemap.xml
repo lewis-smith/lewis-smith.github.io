@@ -2,50 +2,56 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://lewisalexander.github.io/blog/2013/07/03/the-beginning/</loc>
-        <lastmod>2013-07-18T10:18:09+07:00</lastmod>
+        <lastmod>2013-07-18T13:18:09+10:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/blog/2013/07/12/how-do-we-get-better/</loc>
-        <lastmod>2013-07-18T10:17:20+07:00</lastmod>
+        <lastmod>2013-07-18T13:17:20+10:00</lastmod>
     </url>
     <url>
         <loc>
             http://lewisalexander.github.io/blog/2013/07/13/a-slash-b-testing-for-getting-more-reviews/
         </loc>
-        <lastmod>2013-09-06T12:19:44+07:00</lastmod>
+        <lastmod>2013-09-06T15:19:44+10:00</lastmod>
     </url>
     <url>
         <loc>
             http://lewisalexander.github.io/blog/2013/08/07/how-to-apply-for-graphic-design-work/
         </loc>
-        <lastmod>2013-08-17T18:14:26+07:00</lastmod>
+        <lastmod>2013-08-17T21:14:26+10:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/blog/2013/08/17/finding-a-graphic-designer/</loc>
-        <lastmod>2013-09-06T12:19:00+07:00</lastmod>
+        <lastmod>2013-09-06T15:19:00+10:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://lewisalexander.github.io/blog/2013/12/24/ios-7-dot-1-will-allow-developers-to-release-updates-more-often-and-reduce-nagware/
+        </loc>
+        <lastmod>2013-12-24T15:36:30+11:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/about-lewis.html</loc>
-        <lastmod>2013-07-27T15:01:32+07:00</lastmod>
+        <lastmod>2013-07-27T18:01:32+10:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/about-me.html</loc>
-        <lastmod>2013-08-09T20:30:43+07:00</lastmod>
+        <lastmod>2013-08-09T23:30:43+10:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/blog/archives/</loc>
-        <lastmod>2013-09-06T12:19:44+07:00</lastmod>
+        <lastmod>2013-12-24T15:36:30+11:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/contact.html</loc>
-        <lastmod>2013-08-09T20:27:29+07:00</lastmod>
+        <lastmod>2013-08-09T23:27:29+10:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/</loc>
-        <lastmod>2013-09-06T12:19:44+07:00</lastmod>
+        <lastmod>2013-12-24T15:36:30+11:00</lastmod>
     </url>
     <url>
         <loc>http://lewisalexander.github.io/robots.txt</loc>
-        <lastmod>2013-07-02T12:43:02+07:00</lastmod>
+        <lastmod>2013-07-02T15:43:02+10:00</lastmod>
     </url>
 </urlset>
